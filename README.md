@@ -1,4 +1,3 @@
 FirstGIT
-========
-
 First test repository
+
